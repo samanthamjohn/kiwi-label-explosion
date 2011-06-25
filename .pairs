@@ -1,0 +1,9 @@
+# .pairs - configuration for 'git pair'
+# place in project or home directory
+pairs:
+  sm: Sean Moon; sean
+  sj: Sam John; samantha
+  ef: Evan Farrar; evan
+email:
+  prefix: pair
+  domain: nerdnearby.com
